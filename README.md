@@ -5,6 +5,5 @@ FW一枚！
 2.查看文件状态
    git status
 3.git commit -m "提示信息"
-4.远程库与本地库不一致
-  git pull --rebase origin main
-5.git push
+出现错误时：远程库与本地库不一致 git pull --rebase origin main
+5.git push origin main
